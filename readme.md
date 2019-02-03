@@ -5,16 +5,21 @@
 *	Scrum Doing Twice the Work In Half the Time
 *	Agile Principles, Patterns, and Practices in C#
 *	Domain Driven Design
-## In Progress
 *	The Clean Coder
+*	Agile Software Development with Scrum
+## In Progress
+*	Agile Software Requirements
 ## Plan to Read
 *	Clean Architecture
 *	Refactoring
-*	Agile SOftware Requirements
 *	Workplace Management
 *	Elicitation
 *	Design Patterns
 *	Object Oriented Software Construction
-*	Agile Software Development With Scrum
 *	Patterns of Enterprise Architecture
 *	User Stories Applied
+*	Process Dynamics, Modeling, and Control
+*	xUnit Test Patterns
+*	Growing Object Oriented Software
+*	Headfirst Design Patterns
+*	
