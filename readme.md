@@ -1,4 +1,4 @@
-## Done
+## Read
 *	Test Driven Development By Example
 *	Toyota Production System
 *	Clean Code
@@ -7,7 +7,7 @@
 *	Domain Driven Design
 *	The Clean Coder
 *	Agile Software Development with Scrum
-## In Progress
+## Reading
 *	Agile Software Requirements
 ## Plan to Read
 *	Clean Architecture
