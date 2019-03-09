@@ -7,8 +7,10 @@
 *	Domain Driven Design
 *	The Clean Coder
 *	Agile Software Development with Scrum
+* The C Programming Language
 ## Reading
 *	Agile Software Requirements
+* Atomic Habits
 ## Plan to Read
 *	Clean Architecture
 *	Refactoring
@@ -22,4 +24,4 @@
 *	xUnit Test Patterns
 *	Growing Object Oriented Software
 *	Headfirst Design Patterns
-*	
+
