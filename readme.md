@@ -8,11 +8,11 @@
 *	The Clean Coder
 *	Agile Software Development with Scrum
 * The C Programming Language
+* Atomic Habits
 ## Reading
 *	Agile Software Requirements
-* Atomic Habits
+* Clean Architecture
 ## Plan to Read
-*	Clean Architecture
 *	Refactoring
 *	Workplace Management
 *	Elicitation
