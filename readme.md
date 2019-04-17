@@ -9,9 +9,10 @@
 *	Agile Software Development with Scrum
 * The C Programming Language
 * Atomic Habits
-## Reading
 *	Agile Software Requirements
 * Clean Architecture
+## Reading
+* The Art of Unit Testing
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
