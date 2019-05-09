@@ -11,8 +11,10 @@
 * Atomic Habits
 *	Agile Software Requirements
 * Clean Architecture
-## Reading
 * The Art of Unit Testing
+## Reading
+* Code Complete
+* Getting Things Done
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
