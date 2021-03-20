@@ -12,9 +12,10 @@
 *	Agile Software Requirements
 * Clean Architecture
 * The Art of Unit Testing
-## Reading
 * Code Complete
 * Getting Things Done
+##Reading
+* Decisive
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
@@ -27,4 +28,8 @@
 *	xUnit Test Patterns
 *	Growing Object Oriented Software
 *	Headfirst Design Patterns
+*	Leadership and Self Deception
+*	Switch
+*	Elastic Leadership
+*	Rejection Proof
 
