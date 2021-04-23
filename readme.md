@@ -14,8 +14,10 @@
 * The Art of Unit Testing
 * Code Complete
 * Getting Things Done
-## Reading
 * Decisive
+* Switch
+## Reading
+* Leadership and Self Deception
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
@@ -28,8 +30,6 @@
 *	xUnit Test Patterns
 *	Growing Object Oriented Software
 *	Headfirst Design Patterns
-*	Leadership and Self Deception
-*	Switch
 *	Elastic Leadership
 *	Rejection Proof
 *	Meaningful Moments
