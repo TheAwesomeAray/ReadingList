@@ -16,8 +16,11 @@
 * Getting Things Done
 * Decisive
 * Switch
-## Reading
 * Leadership and Self Deception
+* Who Moved My Cheese?
+* I Moved Your Cheese
+## Reading
+* The Anatomy of Peace
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
@@ -32,7 +35,9 @@
 *	Headfirst Design Patterns
 *	Elastic Leadership
 *	Rejection Proof
-*	Meaningful Moments
+*	The Power of Moments
 *	What Color is your Parachute
+*	Letters from a Stoic
+*	The Untethered Soul
 
 
