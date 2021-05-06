@@ -19,8 +19,10 @@
 * Leadership and Self Deception
 * Who Moved My Cheese?
 * I Moved Your Cheese
-## Reading
 * The Anatomy of Peace
+* The Pheonix Project
+## Reading
+* The Devops Handbook
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
