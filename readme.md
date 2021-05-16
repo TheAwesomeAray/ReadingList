@@ -21,8 +21,10 @@
 * I Moved Your Cheese
 * The Anatomy of Peace
 * The Pheonix Project
-## Reading
 * The Devops Handbook
+* The Four Hour Workweek
+## Reading
+* Rejection Proof
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
@@ -36,7 +38,6 @@
 *	Growing Object Oriented Software
 *	Headfirst Design Patterns
 *	Elastic Leadership
-*	Rejection Proof
 *	The Power of Moments
 *	What Color is your Parachute
 *	Letters from a Stoic
