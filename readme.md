@@ -23,8 +23,10 @@
 * The Pheonix Project
 * The Devops Handbook
 * The Four Hour Workweek
-## Reading
+* Our Iceberg is Melting
 * Rejection Proof
+## Reading
+* Working Effectively with Legacy Code
 ## Plan to Read
 *	Refactoring
 *	Workplace Management
